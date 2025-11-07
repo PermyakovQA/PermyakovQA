@@ -56,9 +56,8 @@
 
 | проект | содержание |
 | --- | --- |
-| [Теория тестирования](https://github.com/PermyakovQA/theory) | уровни, методы, виды тестирования |
-| [Техники тест-дизайна](https://github.com/PermyakovQA/design) | применение техник к веб-приложению |
-| [Тестовая документация](https://github.com/PermyakovQA/web) | чек-листы, кейсы, баг-репорты |
+| [Техники тест-дизайна](https://github.com/PermyakovQA/design) | применение техник тест-дизайна к веб-приложению |
+| [Тестирование Web](https://github.com/PermyakovQA/web) | Тестирование интернет-магазина. Исследовательское и функциональное тестирование. Написание тестовых артефактов. |
 | [API testing](https://github.com/PermyakovQA/API) | Postman / API сценарии |
 | [MySQL & MongoDB](https://github.com/PermyakovQA/database) | SQL / NoSQL запросы |
 | [Mobile testing](https://github.com/PermyakovQA/mobile) | тест-артефакты по мобилке |
