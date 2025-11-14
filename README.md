@@ -1,5 +1,5 @@
 # Ваш будущий QA: учусь, тестирую, совершенствуюсь
-📄 **[Резюме](https://drive.google.com/file/d/1ppw4WiEWp2vpn9A2IWQ7A0uIqbYVbZ0f/view?usp=sharing)** • 
+📄 **[Резюме](https://drive.google.com/file/d/1wwUEYFHRjeYddTZvYAJ_HYeQP7YblcVK/view?usp=sharing)**
 🔗 **[LinkedIn](https://www.linkedin.com/in/PermyakovQA/)** • 
 ✉️ **[Telegram](https://t.me/PermyakovQA)** • 
 📧 **[Email](mailto:permyakov.qa@gmail.com)**
