@@ -1,6 +1,6 @@
 # Ваш будущий QA: учусь, тестирую, совершенствуюсь
 📄 **[Резюме](https://drive.google.com/file/d/1wwUEYFHRjeYddTZvYAJ_HYeQP7YblcVK/view?usp=sharing)**
-🔗 **[LinkedIn](https://www.linkedin.com/in/PermyakovQA/)** • 
+🔗 **[LinkedIn](https://www.linkedin.com/in/PermyakovQA)** • 
 ✉️ **[Telegram](https://t.me/PermyakovQA)** • 
 📧 **[Email](mailto:permyakov.qa@gmail.com)**
 <img align="right" src="https://i.imgur.com/1gdOXuD.gif" height="125" alt="QA testing gif">
